@@ -1,6 +1,5 @@
 # Lecture2RTF
 
-#### Video Demo: [https://youtu.be/U5IRr-xZJIQ]
 
 ## Description
 
